@@ -1,7 +1,6 @@
 # Update
 
-Compiled with latest go (1.14.2.)
-Added approved Google API huge thanks to this man https://github.com/ParveenBhadooOfficial for providing approved api.
+Compiled with latest go (1.14.2.)/nAdded approved Google API huge thanks to this man https://github.com/ParveenBhadooOfficial for providing approved api.
 
 
 # About This Tool

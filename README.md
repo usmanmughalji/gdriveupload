@@ -1,6 +1,8 @@
 # Update
 
-Compiled with latest go (1.14.4)<br>Compiled Date: 29-06-2020<br>Added approved Google API huge thanks to this man https://github.com/ParveenBhadooOfficial for providing approved api.
+- Compiled with latest go (1.16.4)
+- Compiled Date: 24-05-2021
+- Added approved Google API huge thanks to this man https://github.com/ParveenBhadooOfficial for providing approved api.
 
 
 # About This Tool

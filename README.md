@@ -1,3 +1,10 @@
+### Important Note
+- **gdrive** on this repository **required** the following **requirements:**
+    - **Graphical User Interface (GUI)**
+    - **Browser**
+- **For headless machines, i.e. (servers, vps)**
+  - [Here](https://github.com/usmanmughalji/gdriveup)
+
 ### Overview
 gdrive is a command line utility for interacting with Google Drive. Based on [gdrive](https://github.com/prasmussen/gdrive)
 
@@ -72,10 +79,7 @@ gdrive upload -p 0ABCA123456789 "file.zip"
 ```
 gdrive upload -r -p 0ABCA123456789 "folder-name"
 ```
-### For ROM Developers
-```
-wget https://raw.githubusercontent.com/usmanmughalji/gdriveupload/master/gdrive && chmod +x gdrive && sudo install gdrive /usr/local/bin/gdrive && gdrive list
-```
+
 ### Notes:
 - I don't own the code or the tool, and I am thankful to all the developers and contributors who have made this wonderful tool.
 - In the repository, I have uploaded the **gdrive-linux-x64** which is rename to gdrive.
